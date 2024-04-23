@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/AR-University/static/css/main.3936bdb3.css",
+    "main.js": "/AR-University/static/js/main.77c68f73.js",
+    "static/js/453.68693753.chunk.js": "/AR-University/static/js/453.68693753.chunk.js",
+    "static/media/video.mp4": "/AR-University/static/media/video.a653b65a431f824611f3.mp4",
+    "static/media/cl4.jpg": "/AR-University/static/media/cl4.a9945afdad6fb30363a8.jpg",
+    "static/media/u1.jpg": "/AR-University/static/media/u1.2aa8327860e338bcb23b.jpg",
+    "static/media/campus.jpg": "/AR-University/static/media/campus.5ff1d7c991a75fe9e129.jpg",
+    "static/media/cl2.jpg": "/AR-University/static/media/cl2.85484f2546b3de47b910.jpg",
+    "static/media/cl1.jpg": "/AR-University/static/media/cl1.e98580e7bc2026ddcf1c.jpg",
+    "static/media/3.jpg": "/AR-University/static/media/3.b480d3d3f1ff4c19fb47.jpg",
+    "static/media/u3.jpg": "/AR-University/static/media/u3.b7e8f54fb8684204275a.jpg",
+    "static/media/cl3.jpg": "/AR-University/static/media/cl3.9e2d9680d52003564813.jpg",
+    "static/media/1.jpg": "/AR-University/static/media/1.868c8daed3d5b2d00ef1.jpg",
+    "static/media/u4.jpg": "/AR-University/static/media/u4.d0b4c09de46b04c09c8e.jpg",
+    "static/media/u2.jpg": "/AR-University/static/media/u2.e9098e045635c5ddded2.jpg",
+    "static/media/student.jpg": "/AR-University/static/media/student.8eb5ecbd5efd110a28c1.jpg",
+    "static/media/2.jpg": "/AR-University/static/media/2.2e12d26cf3456ddcde94.jpg",
+    "static/media/logo.png": "/AR-University/static/media/logo.b86bc1102ae14aab4ff0.png",
+    "static/media/i3.png": "/AR-University/static/media/i3.d44f4c1d36845704d4b3.png",
+    "static/media/location.png": "/AR-University/static/media/location.084da7f156b6c3f45476.png",
+    "static/media/i1.png": "/AR-University/static/media/i1.1c5b5727bab5eb613149.png",
+    "static/media/mail.png": "/AR-University/static/media/mail.69c4cf66e7d039b90568.png",
+    "static/media/play-button.png": "/AR-University/static/media/play-button.1356601fff5921c0bf1c.png",
+    "static/media/email.png": "/AR-University/static/media/email.51b08bcbb5af7a861c31.png",
+    "index.html": "/AR-University/index.html",
+    "main.3936bdb3.css.map": "/AR-University/static/css/main.3936bdb3.css.map",
+    "main.77c68f73.js.map": "/AR-University/static/js/main.77c68f73.js.map",
+    "453.68693753.chunk.js.map": "/AR-University/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3936bdb3.css",
+    "static/js/main.77c68f73.js"
+  ]
+}
